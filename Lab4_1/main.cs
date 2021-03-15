@@ -2,7 +2,8 @@ using System;
 using System.Globalization;
 using System.IO;
 using System.Text.RegularExpressions;
- 
+ /*Вариант 7. написать программу, которая считывает английский текст из файла и выводит его
+на экран, заменив прописной каждую первую букву слов, начинающихся с гласной буквы.*/
 namespace ConsoleApp1
 {
     class Program

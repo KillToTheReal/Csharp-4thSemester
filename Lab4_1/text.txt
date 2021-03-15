@@ -1,0 +1,2 @@
+all the words that starts with a vovel will turn to uppercase. all the words in this file starts with lowercase. some words to test: open, orwell, orange, ambush.
+operator,override.
